@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Event Slider
     Plugin URI: http://www.powr.io
-    Description: Highlight upcoming events with responsive event slider Add the widget to your theme, or create an Event Slider on ANY page or post by using the shortcode [powr-event-slider]. Then, simply visit your site and click the settings icon to customize your Event Slider right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Showcase upcoming events with a customized, responsive slider! Add the widget to your theme, or create an Event Slider on ANY page or post by using the shortcode [powr-event-slider]. Then, simply visit your site and click the settings icon to customize your Event Slider right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
