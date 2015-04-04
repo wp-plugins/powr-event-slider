@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Showcase upcoming events with images and videos in this responsive slider!
 
 == Description ==
-Showcase upcoming events with images and videos in this responsive slider!
+[youtube https://youtu.be/6ViBxM8mskI] Showcase upcoming events with images and videos in this responsive slider!
 <br>
 <br>
 POWr Event Slider is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
